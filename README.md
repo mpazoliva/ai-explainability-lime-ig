@@ -1,0 +1,1 @@
+The goal of this project is to assess the performance of two different explainability approaches, perturbation-based versus gradient-based, on a CNN classifier trained on the CUB-200 dataset. Particularly, method Local Interpretable Model-agnostic Explanations (LIME)  and Integrated Gradients were used.
